@@ -1,5 +1,5 @@
 <h1 align="center">Authenticated Implicit Flow (AIF)</h1>
-<p align="center">Welcome to the code repository for our <a href="https://petsymposium.org/2023/program.php">PETS'23 paper</a>:<p/> 
+<p align="center">Welcome to the code repository for our <a href="https://petsymposium.org/2023/files/papers/issue4/popets-2023-0100.pdf">PETS'23 paper</a>:<p/> 
 <p align="center"><i>Save The Implicit Flow? Enabling Privacy-Preserving RP Authentication in OpenID Connect.</i></p>
 
 -------
