@@ -1,0 +1,30 @@
+{
+  "name": "aif",
+  "version": "1.0.0",
+  "description": "Encapsulates cryptographic schemes and operations required by AIF-ZKP",
+  "scripts": {
+    "test": "mocha --recursive --reporter spec 'tests/**/*.test.js'",
+    "benchmark": "node tests/benchmark-aif-sig.js && node tests/benchmark-aif-com.js && node tests/benchmark-aif-zkp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpicrypto/aif.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hpicrypto/aif/issues"
+  },
+  "homepage": "https://github.com/hpicrypto/aif#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.1.0"
+  },
+  "dependencies": {
+    "amcl-js": "file:../../../../libs/core/javascript",
+    "mcl-wasm": "^1.0.3",
+    "node-rsa": "^1.1.1"
+  }
+}
+
