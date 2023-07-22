@@ -27,11 +27,10 @@ accordingly.
 @inproceedings{PETS:KroLeh23,
   author    = {Maximilian Kroschewski and Anja Lehmann},
   title     = {Save The Implicit Flow? Enabling Privacy-Preserving RP Authentication in OpenID Connect},
-  booktitle = {},
-  pages     = {},
-  publisher = {},
-  year      = {2023},
-  doi       = {}
+  journal   = {Proceedings on Privacy Enhancing Technologies},
+  volume    = {4},
+  pages     = {96--116},
+  year      = {2023}
 }
 ```
 
